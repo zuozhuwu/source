@@ -19,7 +19,7 @@ double CcommonFunc::stringToDouble(const string& str)
 int CcommonFunc::stringToInt(const string& str)
 {
 	return atoi(str.c_str());
-}
+} 
 
 std::string CcommonFunc::UTF8_To_string(const std::string & str)
 {
